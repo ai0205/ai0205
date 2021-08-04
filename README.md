@@ -1,4 +1,4 @@
-[![jongminjung](https://user-images.githubusercontent.com/88419478/128167640-52a3f02c-a961-4b6f-a1b4-e35b2acd6df7.gif)]
+![jongminjung](https://user-images.githubusercontent.com/88419478/128167640-52a3f02c-a961-4b6f-a1b4-e35b2acd6df7.gif)
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://)](https://)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.)](https://www.linkedin.)
